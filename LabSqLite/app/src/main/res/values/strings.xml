@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabSqLite</string>
+    <string name="title_activity_student_dialog">student_dialog</string>
+</resources>
